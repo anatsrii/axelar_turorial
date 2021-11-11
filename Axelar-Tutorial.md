@@ -39,9 +39,14 @@ sudo apt install git
 git clone https://github.com/axelarnetwork/axelarate-community.git
 cd axelarate-community
 ```
+checkout ไป branch v0.6.1
+```
+git checkout v0.6.1
+```
+
 Run the script 
 ``` 
-join/joinTestnet.sh --axelar-core v0.5.2 --tofnd v0.4.0
+join/join-testnet.sh --axelar-core v0.7.10 --tofnd v0.6.1
 ```
 เราสามารถเช็คเวอร์ชั่นล่าสุดได้ที่ [TESTNET RELEASE.md](https://github.com/axelarnetwork/axelarate-community/blob/main/TESTNET%20RELEASE.md)
 
