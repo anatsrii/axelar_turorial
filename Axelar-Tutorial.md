@@ -48,7 +48,7 @@ Run the script
 ``` 
 join/join-testnet.sh --axelar-core v0.7.10 --tofnd v0.6.1
 ```
-เราสามารถเช็คเวอร์ชั่นล่าสุดได้ที่ [TESTNET RELEASE.md](https://github.com/axelarnetwork/axelarate-community/blob/main/TESTNET%20RELEASE.md)
+เราสามารถเช็คเวอร์ชั่นล่าสุดได้ที่ [TESTNET RELEASE.md](https://axelardocs.vercel.app/testnet-releases)
 
 * Check สถานะ node
 ```
